@@ -1,1 +1,1 @@
-# Zomato-Restaurants-Analysis-using-Excel-Sql-PowerBI-and-Tableau.
+# Zomato-Restaurants-Analysis-using-Excel-Sql-Tableau-and-PowerBI
